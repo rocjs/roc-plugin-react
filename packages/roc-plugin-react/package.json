@@ -1,0 +1,32 @@
+{
+  "name": "roc-plugin-react",
+  "description": "Adds React support to Webpack and Roc",
+  "author": "VG",
+  "license": "MIT",
+  "version": "1.0.0-alpha.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "npm run lint"
+  },
+  "files": [
+    "lib"
+  ],
+  "keywords": [
+    "roc",
+    "roc-plugin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rocjs/roc-plugin-react"
+  },
+  "dependencies": {
+    "react": "~0.14.0",
+    "react-dom": "~0.14.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "~5.0.0",
+    "eslint": "~1.10.3",
+    "eslint-config-vgno": "~5.0.0"
+  }
+}
