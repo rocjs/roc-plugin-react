@@ -21,8 +21,8 @@
     "url": "https://github.com/rocjs/roc-plugin-react"
   },
   "dependencies": {
-    "react": "~0.14.0",
-    "react-dom": "~0.14.0"
+    "react": "~15.0.1",
+    "react-dom": "~15.0.1"
   },
   "devDependencies": {
     "babel-eslint": "~5.0.0",
