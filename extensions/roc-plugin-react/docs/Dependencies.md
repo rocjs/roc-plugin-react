@@ -7,13 +7,14 @@ The dependencies that are available in the project.
 __Version__: ~15.0.1  
 __Extension__: roc-plugin-react  
 __Custom resolve function__:  No  
+
 ### [react-dom](https://www.npmjs.com/package/react-dom)
 __Version__: ~15.0.1  
 __Extension__: roc-plugin-react  
 __Custom resolve function__:  No  
 
-## Uses
-Nothing is listed as used.
-
 ## Requires
 Nothing is required.
+
+## Uses
+Nothing is listed as used.

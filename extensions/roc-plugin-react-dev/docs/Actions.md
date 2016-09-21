@@ -12,3 +12,4 @@ Adds the needed Webpack configuration to be able to build and develop React code
 
 __Connects to extension:__ Not specified  
 __Connects to hook:__ `build-webpack`  
+__Have post:__ No  
