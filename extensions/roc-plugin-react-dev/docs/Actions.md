@@ -2,14 +2,14 @@
 
 ## Actions
 * [roc-plugin-react-dev](#roc-plugin-react-dev)
-  * [build-webpack](#build-webpack)
+  * [babel-config](#babel-config)
 
 ## roc-plugin-react-dev
 
-### build-webpack
+### babel-config
 
-Adds the needed Webpack configuration to be able to build and develop React code.
+Adds the needed Babel configuration to be able to build and develop React code.
 
 __Connects to extension:__ Not specified  
-__Connects to hook:__ `build-webpack`  
+__Connects to hook:__ `babel-config`  
 __Have post:__ No  
